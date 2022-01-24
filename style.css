@@ -1,0 +1,7 @@
+.hidden-nav-link{
+    position: absolute;
+    transform: translateY(-120%);
+}
+.hidden-nav-link:focus{
+    transform: translateY(0);
+}
